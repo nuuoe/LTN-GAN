@@ -146,8 +146,8 @@ Each ablation study generates:
 
 ### Environment Setup
 ```bash
-# Activate the conda environment
-conda activate ltncausal
+# Create a conda environment with all dependencies and activate the conda environment
+conda activate name-of-your-environment
 
 # Or install dependencies manually
 pip install torch torchvision torchaudio matplotlib numpy scikit-learn
